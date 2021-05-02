@@ -1,0 +1,1 @@
+[{"env":"HOST_IP","value":"127.0.0.1"},{"env":"HOST_PORT","value":4949},{"env":"DEPLOY_ENVIRONMENT","value":"development"},{"env":"NUM_REPLICA","value":2},{"env":"JOB_PORT","value":8080},{"env":"JOB_CPU","value":200},{"env":"JOB_MEMORY","value":100}]
