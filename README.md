@@ -15,9 +15,9 @@ To install and run simply follow these steps:
 
 5)  You can get list, save new ENV and delete the ENV :
 
-Get list ENV: `curl --location --request GET '127.0.0.1:8080/environment'`
-Save ENV : `curl --location --request POST '127.0.0.1:8080/environment' --header 'Content-Type: application/json' --data-raw {"env":"JOB_PORT","value": "2222"}'`
-Edit ENV : `curl --location --request PUT '127.0.0.1:8080/environment' --header 'Content-Type: application/json' --data-raw {"env":"JOB_PORT","value": "2222"}'`
+Get list ENV: `curl --location --request GET '127.0.0.1:8080/environment'`<br>
+Save ENV : `curl --location --request POST '127.0.0.1:8080/environment' --header 'Content-Type: application/json' --data-raw {"env":"JOB_PORT","value": "2222"}'`<br>
+Edit ENV : `curl --location --request PUT '127.0.0.1:8080/environment' --header 'Content-Type: application/json' --data-raw {"env":"JOB_PORT","value": "6969"}'`<br>
 
 # Run With Docker
 To run with docker follow these steps:
